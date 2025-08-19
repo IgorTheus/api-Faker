@@ -31,4 +31,14 @@ Siga os passos abaixo para rodar a API localmente:
    ```bash
    npm install
 
-node index.js
+4. **Inicie o servidor:**
+   ```bash
+   node index.js
+
+5. **Acesse os endpoints no navegador ou via ferramenta como Postman:**
+
+http://localhost:3000/api/usuarios
+
+http://localhost:3000/api/produtos
+
+http://localhost:3000/api/produtos/categoria/livros
