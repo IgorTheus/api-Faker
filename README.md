@@ -18,3 +18,17 @@ Este projeto é uma API simples construída com [Express](https://expressjs.com/
    ```bash
    git clone https://github.com/seu-usuario/seu-repo.git
    cd seu-repo
+
+## ▶️ Como Executar o Projeto
+
+Siga os passos abaixo para rodar a API localmente:
+
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd seu-repo
+
+3. **Instale as dependências:**
+   ```bash
+   npm install
+
+node index.js
